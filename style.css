@@ -116,6 +116,10 @@ body {
 }
 
 .container {
-  background: #ab4141;
+  background: #151515;
   height: calc(100vh - 50px);
+}
+
+.content-container {
+  margin-left: 50px;
 }
