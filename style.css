@@ -157,6 +157,10 @@ body {
   position: relative;
 }
 
+.movie-list-wrapper {
+  overflow: hidden;
+}
+
 .movie-list {
   display: flex;
   align-items: center;
